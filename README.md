@@ -1,6 +1,6 @@
 # cnn-relation-extraction-with-ranking-loss
 
-Realization of paper Classifying Relations by Ranking with Convolutional Neural Networks(https://www.aclweb.org/anthology/P15-106) with pytorch. 
+Implementation of paper Classifying Relations by Ranking with Convolutional Neural Networks(https://www.aclweb.org/anthology/P15-106) with pytorch. 
 
 ## Usage:
 python main.py
